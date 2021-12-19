@@ -29,9 +29,9 @@
 [apis]: https://github.com/iyowei/callsite-home/blob/main/README.md
 [cli]: https://github.com/iyowei/create-esm/blob/main/README.md
 
-[API 基本结构]: https://github.com/iyowei/readme-templates/apis_constructor.md
-[APIs 基本结构]: https://github.com/iyowei/readme-templates/apis_constructor.md
-[Cli 基本结构]: #
+[API 基本结构]: https://github.com/iyowei/readme-templates/blob/main/api_constructor.md
+[APIs 基本结构]: https://github.com/iyowei/readme-templates/blob/main/apis_constructor.md
+[Cli 基本结构]: https://github.com/iyowei/readme-templates/blob/main/cli_constructor.md
 
 [hackergrrl/art-of-readme]: https://github.com/hackergrrl/art-of-readme
 [RichardLitt/standard-readme]: https://github.com/RichardLitt/standard-readme
