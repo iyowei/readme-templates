@@ -4,6 +4,24 @@
 
 详细描述：场景，为什么，什么益处。
 
+## 目录
+
+- [使用](#使用)
+  - [fn1()](#fn1)
+  - [fn2()](#fn2)
+  - [fn3()](#fn3)
+- [API](#api)
+  - [fn1()](#fn1-1)
+  - [fn2()](#fn2-1)
+  - [fn2()](#fn2-2)
+- [安装](#安装)
+  - [NPM](#npm)
+  - [PNPM](#pnpm)
+  - [Yarn](#yarn)
+- [相关](#相关)
+- [参与贡献](#参与贡献)
+- [其它](#其它)
+
 ## 使用
 
 ### fn1()
@@ -54,6 +72,7 @@ import { fn3 } from 'xxx';
 ## 安装
 
 <!-- 标明支持的宿主、宿主版本，模块类型 -->
+
 ![esm][esm] [![Node Version Badge][node version badge]][download node.js] ![browser][browser]
 
 ### NPM
@@ -84,21 +103,12 @@ yarn add
 
 [包名] 使用 [@iyowei/create-esm][create-esm] 脚手架生成。
 
-
-
-
 [browser]: https://img.shields.io/badge/Browser-orange?style=flat
-
 [node version badge]: https://img.shields.io/badge/node.js-%3E%3D12.20.0-brightgreen?style=flat&logo=Node.js
-
 [download node.js]: https://nodejs.org/en/download/
-
 [esm]: https://img.shields.io/badge/ESM-brightgreen?style=flat
-
 [prs welcome badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat
-
 [包名]: #
-
 [create-esm]: https://github.com/iyowei/create-esm
 
 <!-- 更多文档细节，参考 https://github.com/iyowei/readme-templates -->
