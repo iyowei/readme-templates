@@ -8,8 +8,6 @@
 
 ### fn1()
 
-怎么使用（好、坏甚至更多维度浮动的相对边界在哪里，以确保合情合理的使用），实现原理...
-
 ```
 import { fn1 } from 'xxx';
 ```
@@ -26,9 +24,11 @@ import { fn2 } from 'xxx';
 import { fn3 } from 'xxx';
 ```
 
+怎么使用（好、坏甚至更多维度浮动的相对边界在哪里，以确保合情合理的使用），实现原理...
+
 ## API
 
-如果有多个方法的话。
+<!-- 如果有多个方法的话。 -->
 
 ### fn1()
 
@@ -54,7 +54,7 @@ import { fn3 } from 'xxx';
 ## 安装
 
 <!-- 标明支持的宿主、宿主版本，模块类型 -->
-[![Node Version Badge][node version badge]][download node.js] ![esm][esm]
+![esm][esm] [![Node Version Badge][node version badge]][download node.js] ![browser][browser]
 
 ### NPM
 
@@ -82,12 +82,12 @@ yarn add
 
 ## 其它
 
-[包名] 使用 [create-esm][create-esm] 脚手架生成。
+[包名] 使用 [@iyowei/create-esm][create-esm] 脚手架生成。
 
 
 
 
-
+[browser]: https://img.shields.io/badge/Browser-orange?style=flat
 
 [node version badge]: https://img.shields.io/badge/node.js-%3E%3D12.20.0-brightgreen?style=flat&logo=Node.js
 
