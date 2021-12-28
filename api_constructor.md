@@ -23,7 +23,7 @@
 <!-- 更复杂的参数描述，参见 https://github.com/iyowei/scan-dir/blob/main/README.md -->
 
 ```
-import { api } from 'xxx';
+import api from 'xxx';
 ```
 
 怎么使用（好、坏甚至更多维度浮动的相对边界在哪里，以确保合情合理的使用），实现原理...
@@ -37,19 +37,19 @@ import { api } from 'xxx';
 ### NPM
 
 ```shell
-npm add
+npm add 包名
 ```
 
 ### PNPM
 
 ```shell
-pnpm add
+pnpm add 包名
 ```
 
 ### Yarn
 
 ```shell
-yarn add
+yarn add 包名
 ```
 
 ## 相关
