@@ -7,13 +7,13 @@
 ## 目录
 
 - [使用](#使用)
-  - [fn1()](#fn1)
-  - [fn2()](#fn2)
-  - [fn3()](#fn3)
+  - [api1()](#api1)
+  - [api2()](#api2)
+  - [api3()](#api3)
 - [API](#api)
-  - [fn1()](#fn1-1)
-  - [fn2()](#fn2-1)
-  - [fn2()](#fn2-2)
+  - [api1()](#api1-1)
+  - [api2()](#api2-1)
+  - [api3()](#api3-2)
 - [安装](#安装)
   - [NPM](#npm)
   - [PNPM](#pnpm)
@@ -24,22 +24,22 @@
 
 ## 使用
 
-### fn1()
+### api1()
 
 ```
-import { fn1 } from 'xxx';
+import { api1 } from 'xxx';
 ```
 
-### fn2()
+### api2()
 
 ```
-import { fn2 } from 'xxx';
+import { api2 } from 'xxx';
 ```
 
-### fn3()
+### api3()
 
 ```
-import { fn3 } from 'xxx';
+import { api3 } from 'xxx';
 ```
 
 怎么使用（好、坏甚至更多维度浮动的相对边界在哪里，以确保合情合理的使用），实现原理...
@@ -48,19 +48,19 @@ import { fn3 } from 'xxx';
 
 <!-- 如果有多个方法的话。 -->
 
-### fn1()
+### api1()
 
 - `参数` 描述 **选填** {类型} **默认值**
 - 返回 {`Promise<String>`} 引用当前模块的脚本被调用时所在应用的根目录。
 
-### fn2()
+### api2()
 
 - `参数` 描述 **选填** {类型} **默认值**
 - 返回，描述 { 类型 }
   - 设置了某个选项后返回的数据形态
   - **默认** 返回的数据形态
 
-### fn2()
+### api3()
 
 - `参数` 描述 **选填** {类型} **默认值**
 - 返回 { 类型 }
@@ -78,19 +78,19 @@ import { fn3 } from 'xxx';
 ### NPM
 
 ```shell
-npm add
+npm add 包名
 ```
 
 ### PNPM
 
 ```shell
-pnpm add
+pnpm add 包名
 ```
 
 ### Yarn
 
 ```shell
-yarn add
+yarn add 包名
 ```
 
 ## 相关
